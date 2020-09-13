@@ -5,6 +5,7 @@ I'm a high school student in Portland, OR! I picked up coding after finding the 
 * JavaScript (& jQuery)
 * MongoDB **_Currently Learning_**
 * Python **_Currently Learning_**
+* MATLAB **_Currently Learning_**
 
 My work and projects can be found on [my website](https://marvinlin.me) or in GitHub repositories. Contact me from my website!
 <!--
