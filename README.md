@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi friends! 👋
 
+My work and projects can be found on [my website](https://marvinlin.me) or in GitHub repositories.
 <!--
 **marvinlinn/marvinlinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
