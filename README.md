@@ -1,5 +1,11 @@
 ### Hi friends! 👋
 
+I'm a high school student in Portland, OR! I picked up coding after finding the need to for a side project and quickly found a passion for building various projects in code. My current skillset includes:
+* HTML/CSS
+* JavaScript (& jQuery)
+* MongoDB **_Currently Learning_**
+* Python **_Currently Learning_**
+
 My work and projects can be found on [my website](https://marvinlin.me) or in GitHub repositories.
 <!--
 **marvinlinn/marvinlinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
