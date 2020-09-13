@@ -1,4 +1,4 @@
-### Hi Friends! 👋
+### Hi Friends! :tada:
 
 I'm a high school student in Portland, OR! I picked up coding after finding the need to for a side project and quickly found a passion for building various projects in code. My current programming skillset includes:
 * HTML/CSS
