@@ -8,4 +8,4 @@ I'm a high school student in Portland, OR! I picked up coding after finding the 
 * MATLAB **_Planned for December 2020_**
 * Go **_Planned for January 2021_**
 
-My work and projects can be found on [my website](https://marvinlin.me) or in GitHub repositories. Contact me from my website!
+My work and projects can be found on [**my website**](https://marvinlin.me) or in GitHub repositories. Contact me from my website!
