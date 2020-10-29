@@ -1,6 +1,6 @@
 ### Hi Friends! :tada:
 
-I'm a high school student in Portland, OR! I picked up coding after finding the need to learn some CSS and HTML for a side project and quickly found a passion for building various projects. My current skillset includes:
+I'm a high school student in Portland, OR! I picked up coding after finding the need to learn some CSS and HTML for a side project and quickly found a passion for building. My current skillset includes:
 * HTML/CSS
 * JavaScript (& jQuery) **_Currently Learning_**
 * Python **_Currently Learning_**
