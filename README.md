@@ -1,6 +1,6 @@
 ### Hi Friends! :tada:
 
-I'm a high school student in Portland, OR! I've aquired a passion for the exploration of space over the years, often times finding myself working in
+I'm a high school student in Portland, OR! I've aquired a passion for the exploration of space over the years!
 
 ##### Mechanical Design and CAD
 * Solidworks (Intermediate)
